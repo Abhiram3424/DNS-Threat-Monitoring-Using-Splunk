@@ -236,20 +236,7 @@ Monitor DNS request trends.
 - Blue Team Operations
 - Incident Investigation
 
----
-
-# 📁 Repository Structure
-
-```
-DNS-Threat-Monitoring-Using-Splunk
-│
-├── docs
-├── dataset
-├── screenshots
-├── spl_queries
-└── README.md
-```
-
+  
 ---
 
 # 🚀 Future Enhancements
